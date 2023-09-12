@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -Command .\demo.ps1
